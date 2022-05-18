@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cathay, a 15+ years Backend developer
+- 👋 Hi, I am Thay Huynh, a 15+ years Backend developer
 - 📫 My profile: https://www.linkedin.com/in/thay-huynh-9945a927/
 
 <!---
